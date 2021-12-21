@@ -1,5 +1,5 @@
-# universal_user_representation
-papers of universal user representations learning for item recommendations
+# Universal_user_representations for recommendation
+Papers of universal user representations learning for item recommendations
 
 ## Our research papers that apply pre-training and transfer learning to learn universal user representations for recommender systems:
 
