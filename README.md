@@ -3,7 +3,9 @@ papers of universal user representations learning for item recommendations
 
 ## Our research papers that apply pre-training and transfer learning to learn universal user representations for recommender systems:
 
-1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253 With github codes and datasets.
+1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253 
+
+With github codes and datasets: https://github.com/fajieyuan/SIGIR2020_peterrec
 
 Keywords: self-supervised learning, user sequential behaviors, pretraining, transfer learning, universal user representation, user profile prediction, cold-start problem
 
@@ -13,7 +15,9 @@ Keywords: self-supervised learning, user sequential behaviors, pretraining, tran
 
 (3) We release a large-scale public dataset for user representation transer learning and source code.
 
-2 One Person, One Model, One World: Learning Continual User Representation without Forgetting SIGIR2021 https://arxiv.org/abs/2009.13724 With github codes and datasets.
+2 One Person, One Model, One World: Learning Continual User Representation without Forgetting SIGIR2021 https://arxiv.org/abs/2009.13724 
+
+With github codes and datasets: https://github.com/fajieyuan/SIGIR2021_Conure
 
 Keywords: self-supervised learning, lifelong learning, pre-training, transfer learning, fine-tuning,  general-purpose user representation, user profile prediction, cold-start recommendation
 
