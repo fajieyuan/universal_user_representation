@@ -1,7 +1,7 @@
 # universal_user_representation
 papers of universal user representations learning for recommendation
 
-# Several of our research papers that apply pre-training and transfer learning to learn universal user representations:
+# Our research papers that apply pre-training and transfer learning to learn universal user representations:
 
 1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253 With github codes and datasets.
 
