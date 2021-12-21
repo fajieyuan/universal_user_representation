@@ -5,7 +5,7 @@ papers of universal user representations learning for item recommendations
 
 1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253 With github codes and datasets.
 
-Keywords: self-supervise learning, user sequential behaviors, pretraining, transfer learning, user representation, user profile prediction, cold-start problem
+Keywords: self-supervised learning, user sequential behaviors, pretraining, transfer learning, universal user representation, user profile prediction, cold-start problem
 
 (1) We are the first to evidence that self-supervised user behavior pre-training helps many downstream tasks.
 
@@ -15,7 +15,7 @@ Keywords: self-supervise learning, user sequential behaviors, pretraining, trans
 
 2 One Person, One Model, One World: Learning Continual User Representation without Forgetting SIGIR2021 https://arxiv.org/abs/2009.13724 With github codes and datasets.
 
-Keywords: self-supervise learning, lifelong learning, pretraining, transfer learning, finetuning, user representation, user profile prediction, cold-start problem
+Keywords: self-supervised learning, lifelong learning, pre-training, transfer learning, fine-tuning,  general-purpose user representation, user profile prediction, cold-start recommendation
 
 (1) We are the first to propose universal lifelong user representation learning mechanism for recommender system
 
@@ -25,11 +25,11 @@ Keywords: self-supervise learning, lifelong learning, pretraining, transfer lear
 
 3 Learning Transferable User Representations with Sequential Behaviors via Contrastive Pre-training ICDM2021 https://fajieyuan.github.io/papers/ICDM2021.pdf
 
-Keywords: contrative learnng, self-supervise learning, transfer learning, pretraining, finetuning, user representation, user profile prediction, cold-start problem
+Keywords: contrative learnng, self-supervised learning, transfer learning, pretraining, finetuning,  general-purpose user representation, user profile prediction, cold-start problem
 
 4 User-specific Adaptive Fine-tuning for Cross-domain Recommendations TKDE2021 https://arxiv.org/pdf/2102.10989.pdf
 
-Keywords: adaptive finetuning, pretraining, cold-start problem, cross-domain recommendation
+Keywords: adaptive fine-tuning, pre-training, cold-start problem, cross-domain recommendation,  general-purpose  user representation
 
 ## A large-scale pre-training dataset for learning universal user representations and evaluations
 
