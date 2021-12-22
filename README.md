@@ -42,11 +42,11 @@ https://github.com/fajieyuan/recommendation_dataset_pretraining
 
 ##  Other papers about universal user representations:
 
-1 Knowledge Transfer via Pre-training for Recommendation Tsinghua University 2021 frontiers
+1 Scaling Law for Recommendation Models: Towards General-purpose User Representations  NAVER CLOVA 2021
 
-2 Scaling Law for Recommendation Models: Towards General-purpose User Representations  NAVER CLOVA 2021
+2 One4all User Representation for Recommender Systems in E-commerce NAVER CLOVA 2021
 
-3 One4all User Representation for Recommender Systems in E-commerce NAVER CLOVA 2021
+3 Knowledge Transfer via Pre-training for Recommendation Tsinghua University 2021 frontiers
 
 4 Self-supervised Learning for Large-scale Item Recommendations Google 2021
 
