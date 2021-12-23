@@ -12,7 +12,7 @@ Keywords: self-supervised learning, user sequential behaviors, pretraining, tran
 
 (1) We are the first to evidence that self-supervised user behavior pre-training helps many downstream tasks.
 
-(2) We are also the first to provide user profile prediction as a way to show the universal property of user representation
+(2) We are also the first to provide user profile prediction as a way to assess the universal or generic property of user representation
 
 (3) We release a large-scale public dataset for user representation transer learning and source code.
 
