@@ -1,6 +1,6 @@
 # Universal_user_representations for recommendation
 
-Papers of universal user representations learning for item recommendations https://zhuanlan.zhihu.com/p/437671278 （ 以下内容参考知乎: 荐系统通用用户表征预训练与迁移学习研究进展）
+Papers of universal user representations learning for item recommendations https://zhuanlan.zhihu.com/p/437671278 （ 以下内容参考知乎: 推荐系统通用用户表征预训练与迁移学习研究进展）
 
 ## Our research papers that apply pre-training and transfer learning to learn universal user representations for recommender systems:
 
