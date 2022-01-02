@@ -32,7 +32,7 @@ Keywords: self-supervised learning, lifelong learning, pre-training, transfer le
 
 Keywords: contrative learnng, self-supervised learning, transfer learning, pretraining, finetuning,  general-purpose user representation, user profile prediction, cold-start problem
 
-4 User-specific Adaptive Fine-tuning for Cross-domain Recommendations TKDE2021 https://arxiv.org/pdf/2102.10989.pdf
+4 User-specific Adaptive Fine-tuning for Cross-domain Recommendations TKDE2021 https://arxiv.org/pdf/2106.07864.pdf
 
 Keywords: adaptive fine-tuning, pre-training, cold-start problem, cross-domain recommendation,  general-purpose  user representation
 
