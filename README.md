@@ -60,5 +60,5 @@ https://github.com/fajieyuan/recommendation_dataset_pretraining
 
 9 Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation
 
-10 One Model to Serve All: Star Topology Adaptive Recommender for Multi-Domain CTR Prediction CIKM2021 Ailabab
+10 Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)
 
