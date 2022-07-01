@@ -40,6 +40,11 @@ Keywords: adaptive fine-tuning, pre-training, cold-start problem, cross-domain r
 
 https://github.com/fajieyuan/recommendation_dataset_pretraining
 
+5 Transrec: learning transferable recommendation from mixture-of-modality feedback  https://arxiv.org/pdf/2206.06190.pdf
+
+Keywords: foundation recommendation models, pre-training, transfer learning, mixture-of-modality, content-based recommendation
+
+
 ##  Other papers about universal user representations:
 
 1 Scaling Law for Recommendation Models: Towards General-purpose User Representations  NAVER CLOVA 2021
