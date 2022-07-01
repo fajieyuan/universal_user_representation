@@ -36,14 +36,14 @@ Keywords: contrative learnng, self-supervised learning, transfer learning, pretr
 
 Keywords: adaptive fine-tuning, pre-training, cold-start problem, cross-domain recommendation,  general-purpose  user representation
 
-## A large-scale pre-training dataset for learning universal user representations and evaluations
-
-https://github.com/fajieyuan/recommendation_dataset_pretraining
 
 5 Transrec: learning transferable recommendation from mixture-of-modality feedback  https://arxiv.org/pdf/2206.06190.pdf
 
 Keywords: foundation recommendation models, pre-training, transfer learning, mixture-of-modality, content-based recommendation
 
+## A large-scale pre-training dataset for learning universal user representations and evaluations
+
+https://github.com/fajieyuan/recommendation_dataset_pretraining
 
 ##  Other papers about universal user representations:
 
