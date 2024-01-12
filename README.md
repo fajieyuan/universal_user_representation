@@ -1,5 +1,5 @@
 # Universal_user_representations for recommendation
-## Move to： https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
+## Move to this New Link： https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
 
 Papers of universal user representations (lifelong) learning for item recommendations https://zhuanlan.zhihu.com/p/437671278 （ 以下内容参考知乎: 推荐系统通用用户表征预训练与迁移学习研究进展）
 
