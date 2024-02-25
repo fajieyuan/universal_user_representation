@@ -3,6 +3,16 @@
 
 Papers of universal user representations (lifelong) learning for item recommendations https://zhuanlan.zhihu.com/p/437671278 （ 以下内容参考知乎: 推荐系统通用用户表征预训练与迁移学习研究进展）
 
+## Three Large-scale Recommendation datasets for evaluating foundation recommendation models or transferable recommendaiton models
+
+(1) PixelRec: https://github.com/westlake-repl/PixelRec
+
+(2) NineRec: https://github.com/westlake-repl/NineRec
+
+(3) MicroLens: https://github.com/westlake-repl/MicroLens
+
+(4) Tenrec: https://github.com/yuangh-x/2022-NIPS-Tenrec
+
 ## Our research papers that apply pre-training and transfer learning to learn universal user representations for recommender systems:
 
 1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253 
