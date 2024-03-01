@@ -3,7 +3,7 @@
 
 Papers of universal user representations (lifelong) learning for item recommendations https://zhuanlan.zhihu.com/p/437671278 （ 以下内容参考知乎: 推荐系统通用用户表征预训练与迁移学习研究进展）
 
-## Four Large-scale Recommendation datasets for evaluating foundation recommendation models or transferable recommendaiton models
+## Four Large-scale Recommendation datasets for evaluating cross-domain recommendation models or transferable recommendaiton models
 
 (1) PixelRec: https://github.com/westlake-repl/PixelRec
 
